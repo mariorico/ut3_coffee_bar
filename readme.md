@@ -19,7 +19,7 @@
       "No resolveré dudas en vacaciones"
 		],
 		"Colores": ["#fff", "#f06", "#4f0", "#e7e7e7", "#f3f3f3", "#666", "#ddd", "#630"],
-		"Fuentes titulo y subtitulo": [{
+		"Fuentes título y subtítulo": [{
 			"Open Sans": "http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800",
 			"Josefin": "http://fonts.googleapis.com/css?family=Josefin+Slab:100,300,400,600,700,100italic,300italic,400italic,600italic,700italic"
 		}],
