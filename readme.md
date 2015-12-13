@@ -11,6 +11,7 @@
 		}],
 		"Fecha": "Entregar antes del viernes 8 del 2016 a las 14:55",
 		"Consideraciones": [
+			"Este ejercicio cuenta un 70% de la nota de la UT3",
 			"Una única entrega",
 			"Más de una entrega significa 3 punto menos sobre la nota final",
 			"Existe un tiempo de gracia, pero cada día que pase se descontará un punto (máximo 5 días)",
