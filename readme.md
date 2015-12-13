@@ -13,7 +13,7 @@
 		"Consideraciones": [
 			"Una única entrega",
 			"Más de una entrega significa 3 punto menos sobre la nota final",
-			"Existe un tiempo de gracia, pero cada día que pase se descontará un punto",
+			"Existe un tiempo de gracia, pero cada día que pase se descontará un punto (máximo 5 días)",
       "Puede que se incluya alguna otra nota según aparezcan dudas y/o problemas",
       "No resolveré dudas en vacaciones"
 		],
